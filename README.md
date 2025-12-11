@@ -12,6 +12,10 @@ Monorepo berisi tiga aplikasi:
 - Admin panel: https://e-commerceadmin-b57ee966a-jefgabs-projects.vercel.app/
 - Backend API: https://e-commercebackend-dlcsq7y6n-jefgabs-projects.vercel.app/
 
+Gunakan kredensial berikut untuk login:
+Email: admin123@gmail.com
+Password: admin123
+
 ## Teknologi Utama
 - Backend: Node.js, Express, MongoDB (Mongoose), Cloudinary upload, JWT auth.
 - Frontend & Admin: React (Vite), React Router, Tailwind, Axios, React Toastify.
